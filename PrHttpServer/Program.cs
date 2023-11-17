@@ -230,7 +230,7 @@ namespace SimpleHttpServer
 
         public void listen()
         {
-            listener = new TcpListener(port); //TcpListener(IPAddress localaddr, int port);
+            listener = new TcpListener(port); //TcpListener(IPAddress localaddr, int port); http://10.10.0.198:8888/pr=2496
             listener.Start();
             while (is_active)
             {
