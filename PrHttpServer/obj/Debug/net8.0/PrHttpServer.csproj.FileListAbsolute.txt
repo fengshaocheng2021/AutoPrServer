@@ -1,0 +1,14 @@
+D:\demo\PrHttpServer\PrHttpServer\bin\Debug\net8.0\PrHttpServer.exe
+D:\demo\PrHttpServer\PrHttpServer\bin\Debug\net8.0\PrHttpServer.deps.json
+D:\demo\PrHttpServer\PrHttpServer\bin\Debug\net8.0\PrHttpServer.runtimeconfig.json
+D:\demo\PrHttpServer\PrHttpServer\bin\Debug\net8.0\PrHttpServer.dll
+D:\demo\PrHttpServer\PrHttpServer\bin\Debug\net8.0\PrHttpServer.pdb
+D:\demo\PrHttpServer\PrHttpServer\obj\Debug\net8.0\PrHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo\PrHttpServer\PrHttpServer\obj\Debug\net8.0\PrHttpServer.AssemblyInfoInputs.cache
+D:\demo\PrHttpServer\PrHttpServer\obj\Debug\net8.0\PrHttpServer.AssemblyInfo.cs
+D:\demo\PrHttpServer\PrHttpServer\obj\Debug\net8.0\PrHttpServer.csproj.CoreCompileInputs.cache
+D:\demo\PrHttpServer\PrHttpServer\obj\Debug\net8.0\PrHttpServer.dll
+D:\demo\PrHttpServer\PrHttpServer\obj\Debug\net8.0\refint\PrHttpServer.dll
+D:\demo\PrHttpServer\PrHttpServer\obj\Debug\net8.0\PrHttpServer.pdb
+D:\demo\PrHttpServer\PrHttpServer\obj\Debug\net8.0\PrHttpServer.genruntimeconfig.cache
+D:\demo\PrHttpServer\PrHttpServer\obj\Debug\net8.0\ref\PrHttpServer.dll
