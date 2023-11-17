@@ -12,3 +12,4 @@ D:\demo\PrHttpServer\PrHttpServer\obj\Debug\net8.0\refint\PrHttpServer.dll
 D:\demo\PrHttpServer\PrHttpServer\obj\Debug\net8.0\PrHttpServer.pdb
 D:\demo\PrHttpServer\PrHttpServer\obj\Debug\net8.0\PrHttpServer.genruntimeconfig.cache
 D:\demo\PrHttpServer\PrHttpServer\obj\Debug\net8.0\ref\PrHttpServer.dll
+D:\demo\PrHttpServer\PrHttpServer\obj\Debug\net8.0\PrHttpServer.sourcelink.json
